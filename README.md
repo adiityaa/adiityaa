@@ -3,7 +3,7 @@
 Mobile Development Student at Bangkit Academy 2023 by Google, GoTo, Traveloka
 
 - 🔭 I’m currently working at <a href="https://bpkpenabur.or.id/cities/jakarta">BPK PENABUR Jakarta</a>
-- 🌱 I’m currently learning  about programming languages such as PHP, Javascript, and Python
+- 🌱 Learning  about programming languages such as PHP, Javascript, and Python
 - 💬 Feel free to ask me about web development
 - 📫 How to reach me: adityadwiaprianto219@gmail.com
 
