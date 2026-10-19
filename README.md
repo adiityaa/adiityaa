@@ -24,5 +24,5 @@ Mobile Development Student at Bangkit Academy 2023 by Google, GoTo, Traveloka
 ### Reach me on
 - <a href="https://www.linkedin.com/in/adityadwiaprianto/">LinkedIn</a>
 - <a href="https://adityadwiaprianto.netlify.app/">adityadwiaprianto.website.cv</a>
-- adityadwiaprianto219@gmail.com
+- apriantoaditt@gmail.com
 - <a href="https://www.instagram.com/adityadwiaprianto/">Instagram</a>
